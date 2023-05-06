@@ -104,12 +104,6 @@ margin-top: 25px
     margin-top: 20px;
     background-color: transparent;
 }
-
-.capa{
-    width: 100%;
-    height: 300px;
-   background-attachment: fixed;
-}
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Work+Sans:ital,wght@1,500&display=swap');
