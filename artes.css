@@ -72,7 +72,7 @@ div{
 .capa{
     width: 100%;
     height: 300px;
-   
+   background-attachment: fixed;
 }
 
 .devolta{
